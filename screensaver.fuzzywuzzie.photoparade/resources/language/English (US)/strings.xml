@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <!-- Settings -->
+    <string id="32001">General</string>
+    <string id="32002">Display time (seconds)</string>
+    <string id="32003">Image folder</string>
+</strings>
