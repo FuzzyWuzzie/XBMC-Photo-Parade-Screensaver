@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<strings>
-    <!-- Settings -->
-    <string id="32001">General</string>
-    <string id="32002">Visualización el tiempo (segundos)</string>
-    <string id="32003">Directorio de imágenes</string>
-</strings>
