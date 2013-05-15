@@ -10,7 +10,7 @@
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
 		<language />
-		<source>https://github.com/FuzzyWuzzie/XBMC-Photo-Parade-Screensaver</source>
+		<source>https://github.com/FuzzyWuzzie/screensaver.fuzzywuzzie.photoparade</source>
 		<email>kenton@hamaluik.com</email>
 		<summary lang="en">An alternative photo slideshow screensaver</summary>
 		<description lang="en">An alternative photo slideshow screensaver</description>
