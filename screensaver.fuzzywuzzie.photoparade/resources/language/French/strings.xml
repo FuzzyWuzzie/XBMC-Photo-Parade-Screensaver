@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <!-- Settings -->
+    <string id="32001">Général</string>
+    <string id="32002">Le temps d'affichage (en secondes)</string>
+    <string id="32003">Répertoire d'images</string>
+</strings>
